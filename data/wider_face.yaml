@@ -1,0 +1,7 @@
+path: /kaggle/input/wider-face-in-yolov5-format/face_data
+train: images/train 
+val: images/validation
+
+# Classes
+nc: 1
+names: ['face']
